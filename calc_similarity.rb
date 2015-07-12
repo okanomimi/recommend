@@ -37,8 +37,10 @@ def de(v, key_array)
 end
 
 
-word_list = YAML.load_file("word_list.yml") ;
-word_list2 = YAML.load_file("word_list.yml") ;
+word_list = YAML.load_file("word_set/word_list_test.yml") ;
+# word_list = YAML.load_file("word_list.yml") ;
+# word_list2 = YAML.load_file("word_list.yml") ;
+word_list2 = YAML.load_file("word_set/word_list_test.yml") ;
 
 word_vec = []
 word_list.each do |word|

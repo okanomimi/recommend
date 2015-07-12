@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <title>テニス - Wikipedia</title>
-<meta name="generator" content="MediaWiki 1.26wmf12" />
+<meta name="generator" content="MediaWiki 1.26wmf13" />
 <link rel="alternate" href="android-app://org.wikipedia/http/ja.m.wikipedia.org/wiki/%E3%83%86%E3%83%8B%E3%82%B9" />
 <link rel="alternate" type="application/x-wiki" title="編集" href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit" />
 <link rel="edit" title="編集" href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit" />
@@ -22,7 +22,7 @@
 /* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
 <script src="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
 <script>if(window.mw){
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"テニス","wgTitle":"テニス","wgCurRevisionId":56008383,"wgRevisionId":56008383,"wgArticleId":14925,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記述のある記事/2011年10月","検証が求められている記述のある記事/2011年","出典を必要とする記事/2011年10月","書きかけの節のある項目","テニス","オリンピック競技","パラリンピック競技","ラケットスポーツ"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"テニス","wgRelevantArticleId":14925,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["ja-jp"],"wgULSCurrentAutonym":"日本語","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q847"});
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"テニス","wgTitle":"テニス","wgCurRevisionId":56008383,"wgRevisionId":56008383,"wgArticleId":14925,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記述のある記事/2011年10月","検証が求められている記述のある記事/2011年","出典を必要とする記事/2011年10月","書きかけの節のある項目","テニス","オリンピック競技","パラリンピック競技","ラケットスポーツ"],"wgBreakFrames":false,"wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"テニス","wgRelevantArticleId":14925,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgULSAcceptLanguageList":["ja-jp"],"wgULSCurrentAutonym":"日本語","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q847"});
 }</script><script>if(window.mw){
 mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"ja"});});
 /* cache key: global:resourceloader:filter:minify-js:7:9c1376de1996a704814c4bd7b0cd67a6 */
@@ -34,7 +34,7 @@ mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editTo
 mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
 }</script>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
-<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf12/skins/Vector/csshover.min.htc")}</style><![endif]-->
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
 </head>
 <body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-テニス skin-vector action-view">
 		<div id="mw-page-base" class="noprint"></div>
@@ -308,7 +308,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li>試合開始前に、初めにサーブを行うプレーヤーを決定するための動作。<a href="/wiki/%E3%82%B3%E3%82%A4%E3%83%B3%E3%83%88%E3%82%B9" title="コイントス">コイントス</a>と、ラケットによるトスがある。以下はラケットを使用する場合である。1人のプレーヤーがグリップを軸にしてラケットを回転させ、ラケットが地面に倒れ静止した状態での表裏を、ラケットが回転している間に相手側のプレーヤーが当てることにより行う。このとき、ラケットを回すプレーヤーは、相手側のプレーヤーに対して以下に示すような問いかけを行い、公正を期すため応答がある前にラケットを回す。トスの結果により選択権を得た側が、「サーブを初めに行う」「レシーブを初めに行う」「ネットのいずれかの側のコートに入る」「選択権を相手に譲る」のいずれかを選ぶ。なお、規定の練習が開始されるとコートの状況の確認が可能となるため、トスは規定の練習の前に行われる。
 <dl>
 <dt>ラフ・オア・スムース（rough or smooth)、またはスムース・オア・ラフ（smooth or rough）</dt>
-<dd>かつてのラケットには、飾りガット、あるいは飾り糸と呼ばれる紐が結わえられており、紐が平坦である側が表（スムース）、凹凸がある側が裏（ラフ）と判断される。 飾りガットが廃れた一方で、グリップエンドのラケット製造者のマークを用いて表裏を判断するようになった。なおsmoothの発音は<span title="国際音声記号 (IPA) 表記" class="IPA" style="font-size: 103%;">/smuː<a href="/wiki/%E6%9C%89%E5%A3%B0%E6%AD%AF%E6%91%A9%E6%93%A6%E9%9F%B3" title="有声歯摩擦音">ð</a>/</span>である<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>。</dd>
+<dd>かつてのラケットには、飾りガット、あるいは飾り糸と呼ばれる紐が結わえられており、紐が平坦である側が表（スムース）、凹凸がある側が裏（ラフ）と判断される。 飾りガットが廃れた一方で、グリップエンドのラケット製造者のマークを用いて表裏を判断するようになった。なおsmoothの発音は<span class="IPA" style="font-size: 103%;">/smuː<a href="/wiki/%E6%9C%89%E5%A3%B0%E6%AD%AF%E6%91%A9%E6%93%A6%E9%9F%B3" title="有声歯摩擦音">ð</a>/</span>である<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>。</dd>
 <dt>アップ・オア・ダウン（up or down）</dt>
 <dd>グリップエンドのマークが正しい向きになっている場合は表（アップ）、上下逆になっている場合は裏（ダウン）と判断される。</dd>
 <dt>フィッチ（which）</dt>
@@ -502,7 +502,7 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <li id="cite_note-gl01-5">^ <a href="#cite_ref-gl01_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gl01_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gl01_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-gl01_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-gl01_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-gl01_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-gl01_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-gl01_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-gl01_5-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-gl01_5-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-gl01_5-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-gl01_5-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-gl01_5-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-gl01_5-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-gl01_5-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-gl01_5-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-gl01_5-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-gl01_5-17"><sup><i><b>r</b></i></sup></a> <span class="reference-text"><a class="external text" href="http://en.wikipedia.org/w/index.php?title=Glossary_of_tennis_terms&amp;oldid=454819626">「Glossary of tennis terms」</a>『Wikipedia英語版』 2011年10月10日 04:38 (UTC)。</span></li>
 <li id="cite_note-6"><b><a href="#cite_ref-6">^</a></b> <span class="reference-text">『<a href="/wiki/%E3%82%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E8%8B%B1%E8%AA%9E%E8%BE%9E%E5%85%B8" title="オックスフォード英語辞典">オックスフォード英語辞典</a>』第二版によれば、「for love」に「楽しみのために、賭け金 0 で（ゲームをする）」の意味がある（<span class="fix-domain" title="文献不明―オックスフォード英語辞典は1928年初版刊行（2011年10月）">文献初出 1678 年</span><sup class="noprint Inline-Template nowrap">[<i><a href="/wiki/Wikipedia:%E6%A4%9C%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7" title="Wikipedia:検証可能性"><span title="文献不明―オックスフォード英語辞典は1928年初版刊行（2011年10月）">要検証</span></a> <span class="metadata">– <a href="/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%86%E3%83%8B%E3%82%B9" title="ノート:テニス">ノート</a></span></i>]</sup>）。<span class="fix-domain" title="この記述には信頼できる情報源の提示が求められています。（2011年10月）">そこから<a href="/wiki/%E3%83%9B%E3%82%A4%E3%82%B9%E3%83%88" title="ホイスト">ホイスト</a>、<a href="/wiki/%E3%83%95%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB" title="フットボール">フットボール</a>、テニスなどで love が 0 点を表すようになった（初出 1742 年、ホイストの例）という。1780 年の用例では、love がどうして 0 点の意味になるのかわからないとの趣旨が述べられている。テニスの 0 点に対して love を使った例は 1878 年に初出している。他方、仏語では現在もテニスの 0 点のことを l'œuf と言う</span><sup class="noprint Template-Fact">[<i><a href="/wiki/Wikipedia:%E3%80%8C%E8%A6%81%E5%87%BA%E5%85%B8%E3%80%8D%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%9F%E6%96%B9%E3%81%B8" title="Wikipedia:「要出典」をクリックされた方へ"><span title="この記述には信頼できる情報源の提示が求められています。（2011年10月）">要出典</span></a></i>]</sup>。</span></li>
 <li id="cite_note-fau01-7">^ <a href="#cite_ref-fau01_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fau01_7-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a class="external text" href="http://ja.wikipedia.org/w/index.php?title=Wikipedia:%E8%A1%A8%E8%A8%98%E3%82%AC%E3%82%A4%E3%83%89&amp;oldid=39524269#.E5.A4.96.E6.9D.A5.E8.AA.9E">「Wikipedia:表記ガイド:外来語」</a>『ウィキペディア日本語版』 2011年10月8日 11:07 (UTC) に沿って、本項目での表記を「フォールト」で統一。</span></li>
-<li id="cite_note-fau02-8">^ <a href="#cite_ref-fau02_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fau02_8-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a class="external text" href="http://en.wiktionary.org/w/index.php?title=fault&amp;oldid=13882482">「fault」</a>『<a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー">Wiktionary</a>英語版』 2011年9月15日 21:16 (UTC)。<span title="国際音声記号 (IPA) 表記" class="IPA" style="font-size: 103%;">/fɔlt/</span>に近いカタカナ表記、また慣習的表記として。</span></li>
+<li id="cite_note-fau02-8">^ <a href="#cite_ref-fau02_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fau02_8-1"><sup><i><b>b</b></i></sup></a> <span class="reference-text"><a class="external text" href="http://en.wiktionary.org/w/index.php?title=fault&amp;oldid=13882482">「fault」</a>『<a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー">Wiktionary</a>英語版』 2011年9月15日 21:16 (UTC)。<span class="IPA" style="font-size: 103%;">/fɔlt/</span>に近いカタカナ表記、また慣習的表記として。</span></li>
 <li id="cite_note-9"><b><a href="#cite_ref-9">^</a></b> <span class="reference-text"><a class="external text" href="http://en.wiktionary.org/w/index.php?title=smooth&amp;oldid=14060014">「smooth」</a>『<a href="/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー">Wiktionary</a>英語版』 2011年10月14日 01:38 (UTC)、2011年10月24日閲覧。</span></li>
 <li id="cite_note-10"><b><a href="#cite_ref-10">^</a></b> <span class="reference-text">グラフの後にゴールデン・スラムを達成した選手はいないが、車イステニス界において日本人プレーヤーの<a href="/wiki/%E5%9B%BD%E6%9E%9D%E6%85%8E%E5%90%BE" title="国枝慎吾">国枝慎吾</a>が、2008年に成し遂げている（全豪オープン、ジャパンオープン、全英オープン、全米オープン、パラリンピック） 。</span></li>
 <li id="cite_note-11"><b><a href="#cite_ref-11">^</a></b> <span class="reference-text"><a href="/wiki/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%97%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC" title="タイムスクープハンター">タイムスクープハンター</a>（NHK総合1ch 11:30 - 0:00）2013年4月27日放送分 第4話『打て!大正テニスガール』番組内説明</span></li>
@@ -1352,12 +1352,12 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 
 <!-- 
 NewPP limit report
-Parsed by mw1087
-CPU time usage: 0.634 seconds
-Real time usage: 0.748 seconds
+Parsed by mw1006
+CPU time usage: 0.731 seconds
+Real time usage: 0.967 seconds
 Preprocessor visited node count: 11147/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 144456/2097152 bytes
+Post‐expand include size: 144376/2097152 bytes
 Template argument size: 64267/2097152 bytes
 Highest expansion depth: 23/40
 Expensive parser function count: 3/500
@@ -1367,19 +1367,19 @@ Lua memory usage: 1.33 MB/50 MB
 
 <!-- 
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  518.916      1 - -total
- 20.90%  108.445     12 - Template:Fix
- 17.50%   90.792     10 - Template:要出典
- 16.63%   86.315     13 - Template:DMC/core
- 15.62%   81.030      1 - Template:スポーツ
- 15.26%   79.170      1 - Template:出典の明記
- 14.78%   76.720      1 - Template:Infobox
- 11.90%   61.731      4 - Template:Navbox
- 11.08%   57.505      2 - Template:Ambox
- 10.27%   53.301     65 - Template:Checkdate
+100.00%  697.219      1 - -total
+ 17.13%  119.424     12 - Template:Fix
+ 15.46%  107.768      1 - Template:スポーツ
+ 14.75%  102.839      1 - Template:Infobox
+ 14.11%   98.366     10 - Template:要出典
+ 13.70%   95.499     13 - Template:DMC/core
+ 13.61%   94.880      3 - Template:Rellink
+ 13.57%   94.623      1 - Template:出典の明記
+ 13.42%   93.550      1 - Template:Seealso
+ 12.70%   88.545      5 - Template:See/core
 -->
 
-<!-- Saved in parser cache with key jawiki:pcache:idhash:14925-0!*!0!!ja!4!* and timestamp 20150703031016 and revision id 56008383
+<!-- Saved in parser cache with key jawiki:pcache:idhash:14925-0!*!0!!ja!4!* and timestamp 20150711235412 and revision id 56008383
  -->
 <noscript><img src="//ja.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
 						「<a dir="ltr" href="https://ja.wikipedia.org/w/index.php?title=テニス&amp;oldid=56008383">https://ja.wikipedia.org/w/index.php?title=テニス&amp;oldid=56008383</a>」から取得					</div>
@@ -1419,7 +1419,7 @@ Transclusion expansion time report (%,ms,calls,template)
 						<h3 id="p-views-label">表示</h3>
 						<ul>
 															<li id="ca-view" class="selected"><span><a href="/wiki/%E3%83%86%E3%83%8B%E3%82%B9" >閲覧</a></span></li>
-															<li id="ca-edit"><span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit"  title="このページを編集できます。保存前にプレビューボタンを使用してください。 [e]" accesskey="e">編集</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=edit"  title="このページを編集 [e]" accesskey="e">編集</a></span></li>
 															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=%E3%83%86%E3%83%8B%E3%82%B9&amp;action=history"  title="このページの過去の版 [h]" accesskey="h">履歴表示</a></span></li>
 													</ul>
 					</div>
@@ -1503,7 +1503,7 @@ Transclusion expansion time report (%,ms,calls,template)
 											<li id="footer-copyrightico">
 							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
 											<li id="footer-poweredbyico">
-							<a href="//www.mediawiki.org/"><img src="//ja.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//ja.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //ja.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+							<a href="//www.mediawiki.org/"><img src="//ja.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//ja.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //ja.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
 									</ul>
 						<div style="clear:both"></div>
 		</div>
@@ -1512,13 +1512,13 @@ mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","
 }</script>
 <link rel="stylesheet" href="//ja.wikipedia.org/w/load.php?debug=false&amp;lang=ja&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2CVectorClassicFonts%2CWikiMiniAtlas%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
 <script>if(window.mw){
-mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips"],null,true);
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.VectorClassicFonts","ext.gadget.WikiMiniAtlas","ext.gadget.ReferenceTooltips","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
 }</script>
 <script>if(window.mw){
 document.write("\u003Cscript src=\"//ja.wikipedia.org/w/load.php?debug=false\u0026amp;lang=ja\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
 }</script>
 <script>if(window.mw){
-mw.config.set({"wgBackendResponseTime":972,"wgHostname":"mw1087"});
+mw.config.set({"wgBackendResponseTime":151,"wgHostname":"mw1048"});
 }</script>
 	</body>
 </html>

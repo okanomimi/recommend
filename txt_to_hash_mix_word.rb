@@ -14,9 +14,12 @@ include MathTool;
 # sentence = "太郎はこの本を二郎を見た女性に渡した。"
 
 # word_list = YAML.load_file("word_list.yml")
-word_list = YAML.load_file("word_list2.yml")
+# word_list = YAML.load_file("word_list2.yml")
+word_list = YAML.load_file("word_set/word_list_test.yml")
 all_array = Array.new ;
+word_name = ""
 word_list.each do |word|
+  word_name += word 
   f = open('data_set/'+word+'.txt')
   sentence = f.read()
   f.close()
@@ -48,5 +51,5 @@ end
   hash = cut_hash(hash, 500)
   hash = min_max_normalization_hash(hash) ;
  
-  makeYamlFile("data_set/second.yml",hash) ;
+  makeYamlFile("data_set/"+word_name+".yml",hash) ;
 
