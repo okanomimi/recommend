@@ -20,6 +20,7 @@ all_array = Array.new ;
 word_name = ""
 word_list.each do |word|
   word_name += word 
+  word_name += "_"
   f = open('data_set/'+word+'.txt')
   sentence = f.read()
   f.close()

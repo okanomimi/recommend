@@ -30,6 +30,7 @@ for word in word_list:
 
     br.select_form(nr = 0)  #フォームを入力
     word = word.encode('utf-8')
+
     if os.path.exists("data_set/"+word+".txt") == False:  #まだ、検索していなければ
         br["search"] = word  #
         response = br.submit() ;

@@ -1,0 +1,19 @@
+require 'net/http'
+
+uri = URI.parse 'http://example.com'
+
+params = Hash.new
+params.store("hoge","1")
+params.store("fuga","2")
+
+if method == :get
+  uri.query = URI.encode_www_form(params)
+  req = Net::HTTP::Get.new uri
+end
+
+if method == :post
+  req = Net::HTTP::Post.new uri.path
+  req.set_form_data(params)
+end
+
+res = Net::HTTP.start(uri.host, uri.port) {|http| http.request req }
