@@ -7,11 +7,35 @@ require 'pry'
 require '/home/okano/okano/RRSP/v0.3/rubyOkn/BasicTool'
 require '/home/okano/okano/RRSP/v0.3/rubyOkn/StringTool'
 require '/home/okano/okano/RRSP/v0.3/rubyOkn/MathTool'
+require 'rubygems'  # Ruby 1.8 対応のため rubygems を require しているが Ruby 1.9 では不要である
+require 'sqlite3'
 
+include SQLite3
 include BasicTool  ;
 include StringTool;
 include MathTool;
 # sentence = "太郎はこの本を二郎を見た女性に渡した。"
+
+# db = Database.new("test.db")
+
+$db = Database.new("test.db")
+def insert_db(word, result)
+
+sql=<<EOS
+create table if not exists #{word}(
+  id integer primary key autoincrement, 
+  fac text, 
+  pro text
+) ;
+EOS
+
+$db.execute(sql)
+result.each do |(k, v)|
+$db.execute("insert into #{word} (fac,pro) values('#{k}', '#{v.to_s}')") ; 
+
+end
+
+end
 
 word_list = YAML.load_file("word_list.yml")
 word_list.each do |word|
@@ -67,6 +91,8 @@ word_list.each do |word|
     result_hash[h[0]] = h[1] ;
   end 
   makeYamlFile("data_set/"+word+".yml",result_hash) ;
+
+  insert_db(word, result_hash)
 end
 
 binding.pry ;

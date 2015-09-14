@@ -2,27 +2,29 @@
 
 require "socket"
 require "pry"
+require "WordToHash"
 
 # ポート番号20000番でopen
 # s0 = TCPServer.open(10000)
 s0 = TCPServer.open(20000)
 
 # クライアントからの接続を受け付ける
-p "dada"
 sock = s0.accept
 
-p "sock"
-p sock
+
 # クライアントからのデータを最後まで受信する
 # 受信したデータはコンソールに表示される
-# while buf = sock.gets 
 p sock.gets
-p"test"
-while buf = sock.gets
-  p buf
-  p "dada"
-end
+binding.pry ;
+word_list = Array.new
+word_lit.each
+#変換
+hash_maker = WordToHash.new(word_list)
+word_vec = hash_maker.run   #特徴ベクトル化したデータの取得
+#データベースのデータと照合
+#結果を文字列にして返す [name , "dds"]
 
+sock.write("dsdad") ;   #つながっているソケットに文字列を送る
 # クライアントとの接続ソケットを閉じる
 sock.close
 

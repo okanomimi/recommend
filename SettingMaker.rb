@@ -24,6 +24,6 @@ word_list = ["テニス", "ソフトテニス"]
 # word_list = ["テニス", "野球", "サッカー", "ピアノ", "剣道", "ソフトテニス"]
 # word_list = ["猫", "犬", "サッカー", "ピアノ", "テニス", "ソフトテニス", "バトミントン", "野球"]
 
-# makeYamlFile("word_list.yml", word_list) ;
-makeYamlFile("word_set/word_list_test.yml", word_list) ;
+makeYamlFile("word_list.yml", word_list) ;
+# makeYamlFile("word_set/word_list_test.yml", word_list) ;
 
